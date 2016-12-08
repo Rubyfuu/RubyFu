@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Rubyfuu/RubyFu.png?label=ready&title=Ready)](https://waffle.io/Rubyfuu/RubyFu)
 # RubyFu
 
 ![](images/other/rubyfu.png)
